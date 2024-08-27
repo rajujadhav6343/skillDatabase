@@ -1,0 +1,7 @@
+{
+  "name": "skillData",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
