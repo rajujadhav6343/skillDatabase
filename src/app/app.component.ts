@@ -20,6 +20,6 @@ export class AppComponent {
     },
     { title: 'Add Compentency', url: '/folder/Add Compentency', icon: 'add' },
   ];
-  // public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
+
   constructor() {}
 }
